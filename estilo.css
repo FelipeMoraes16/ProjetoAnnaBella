@@ -1,0 +1,40 @@
+body{
+	background: #d4d4c4 url(imagens/fundo.png) repeat;
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+#container{
+	/*border: 1px solid red;*/
+	width: 900px;
+}
+
+#menu{
+	background: #c3c4b3;
+	padding: 18px;
+}
+
+#conteudo{
+	padding: 10px;
+	background: #ececdb;
+}
+
+#rodape{
+	text-align: center;
+}
+
+a{
+	padding: 5px;
+	text-decoration: none;
+	color: #535771;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+h2{
+	font-size: 1.2em;
+	color: #87867d;
+}
+
+.img-campanhas{
+	border: 10px solid #c3c3ae;
+}
